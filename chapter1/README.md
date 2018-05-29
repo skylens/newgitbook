@@ -1,5 +1,5 @@
 ---
-description: 第一章 GUN/Linux
+description: 
 ---
 
 # 第一章 GUN/Linux
