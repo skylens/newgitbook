@@ -1,3 +1,5 @@
-# 第一章 GUN/Linux
+description: 第一节 ubuntu
+
+# 第一节 ubuntu
 
 ## 
